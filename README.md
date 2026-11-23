@@ -35,7 +35,7 @@ Saya **Lino**, mahasiswa **Ilmu Komputer** yang suka membangun aplikasi web yang
 
 <p align="left">
   <a href="https://github.com/marselinobrand/sistem-slide-liturgi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marselinobrand&repo=sistem-slide-liturgi&theme=tokyonight&hide_border=true" alt="sistem-slide-liturgi" />
+    <img src="https://img.shields.io/badge/Sistem_Slide_Liturgi-Private_Repo-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Sistem Slide Liturgi" />
   </a>
 </p>
 
