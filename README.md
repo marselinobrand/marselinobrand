@@ -13,4 +13,4 @@ Node.js · Express · PostgreSQL · JavaScript · HTML/CSS · Python
 - **Analisis Sentimen**: perbandingan XLM-RoBERTa vs IndoBERT
 
 ## 📫 Kontak
-LinkedIn: Marselino Brand · Email: marselinobrand@gmail.com
+LinkedIn: https://www.linkedin.com/public-profile/ · Email: marselinobrand@gmail.com
